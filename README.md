@@ -18,7 +18,7 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=masum-007E&label=Profile%20Views&color=2563eb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=masum-007&label=Profile%20Views&color=2563eb&style=flat-square" />
 <img src="https://img.shields.io/github/followers/masum-007?label=Followers&style=flat-square&color=0ea5e9" />
 
 </div>
@@ -415,28 +415,6 @@ Zenith Routine Dashboard is a modern Python desktop productivity app built with 
 </div>
 
 ---
-
-## 📌 Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/masum-007/FeatherForge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masum-007&repo=FeatherForge&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/masum-007/Compiler-Design-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masum-007&repo=Compiler-Design-Project&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/masum-007/mfinance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masum-007&repo=mfinance&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/masum-007/Zenith-Routine-Dashboard">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=masum-007&repo=Zenith-Routine-Dashboard&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ## 🌟 Professional Highlights
 
