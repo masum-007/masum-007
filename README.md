@@ -228,38 +228,45 @@ Currently, I am focused on growing as a **Software Engineer** while building a s
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎮 FeatherForge</h3>
+<h3 align="center">💰 mfinance</h3>
 
 <p align="center">
-  <b>2D Game Engine & Physics-Based Destruction Game</b>
+  <b>Modern Finance Web Application</b>
 </p>
 
 <p>
-FeatherForge is a C++ computer graphics project inspired by Angry Birds. It focuses on a reusable mini game engine, physics-based projectile movement, collision handling, destructible structures, layered rendering, camera movement, and JSON-based level handling.
+mfinance is a TypeScript and Next.js-based web application focused on finance-related features. It uses a modern full-stack setup with React, Next.js, Prisma, PostgreSQL, Supabase, Recharts, Tailwind CSS, and shadcn-style UI components.
 </p>
 
 <b>Key Features:</b>
 
-- Slingshot-based projectile launching  
-- Destructible wood, glass, and stone structures  
-- Entity-Component System architecture  
-- Rigid body physics and collision response  
-- Dynamic camera follow, zoom, and screen shake  
-- Particle effects, parallax background, and animated environment  
+- Modern Next.js application structure  
+- TypeScript-first development  
+- Database integration with Prisma  
+- Supabase and PostgreSQL support  
+- Recharts-based data visualization  
+- Clean UI components with Tailwind CSS  
+- Deployable web app architecture  
 
 <br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Box2D-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Recharts-F97316?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 <p align="center">
-<a href="https://github.com/masum-007/FeatherForge">
-  <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/masum-007/mfinance">
+  <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://mfinance-masum.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
@@ -309,45 +316,38 @@ A Python-based educational GUI application for visualizing major compiler design
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">💰 mfinance</h3>
+<h3 align="center">🎮 FeatherForge</h3>
 
 <p align="center">
-  <b>Modern Finance Web Application</b>
+  <b>2D Game Engine & Physics-Based Destruction Game</b>
 </p>
 
 <p>
-mfinance is a TypeScript and Next.js-based web application focused on finance-related features. It uses a modern full-stack setup with React, Next.js, Prisma, PostgreSQL, Supabase, Recharts, Tailwind CSS, and shadcn-style UI components.
+FeatherForge is a C++ computer graphics project inspired by Angry Birds. It focuses on a reusable mini game engine, physics-based projectile movement, collision handling, destructible structures, layered rendering, camera movement, and JSON-based level handling.
 </p>
 
 <b>Key Features:</b>
 
-- Modern Next.js application structure  
-- TypeScript-first development  
-- Database integration with Prisma  
-- Supabase and PostgreSQL support  
-- Recharts-based data visualization  
-- Clean UI components with Tailwind CSS  
-- Deployable web app architecture  
+- Slingshot-based projectile launching  
+- Destructible wood, glass, and stone structures  
+- Entity-Component System architecture  
+- Rigid body physics and collision response  
+- Dynamic camera follow, zoom, and screen shake  
+- Particle effects, parallax background, and animated environment  
 
 <br />
 
 <p align="center">
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-10B981?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Recharts-F97316?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Box2D-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-111827?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 <p align="center">
-<a href="https://github.com/masum-007/mfinance">
-  <img src="https://img.shields.io/badge/View_Repository-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://mfinance-sigma.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://github.com/masum-007/FeatherForge">
+  <img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
 
