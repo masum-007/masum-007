@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=230&section=header&text=Md%20Masum%20Al%20Mahamud&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergraduate%20%7C%20C%2FC%2B%2B%20%26%20DSA%20%7C%20Future%20AI%2FML%20Researcher%20%7C%20Software%20Engineer&descAlignY=58&descSize=15" />
+<img width="100%" src="./assets/banner.png" alt="Md. Masum Al Mahamud Banner" />
+
+<br />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=950&lines=Assalamu+Alaikum%2C+I'm+Masum+%F0%9F%91%8B;CSE+Undergraduate+from+Bangladesh;C%2FC%2B%2B+%7C+DSA+%7C+OOP+%7C+Problem+Solving;Future+AI%2FML+Researcher;Aspiring+Software+Engineer;Building+Projects+with+Consistency+and+Purpose" />
 
-<br />
+<br /><br />
 
 <a href="https://github.com/masum-007">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
@@ -18,8 +20,8 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=masum-007&label=Profile%20Views&color=2563eb&style=flat-square" />
 <img src="https://img.shields.io/github/followers/masum-007?label=Followers&style=flat-square&color=0ea5e9" />
+<img src="https://komarev.com/ghpvc/?username=masum-007&label=Profile%20Views&color=2563eb&style=flat-square" />
 
 </div>
 
