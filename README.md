@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/masum-al-mahamud/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mdmasumalmahamud@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -438,88 +438,6 @@ Zenith Routine Dashboard is a modern Python desktop productivity app built with 
 
 </div>
 
-## 📚 My Learning Roadmap
-
-```mermaid
-mindmap
-  root((Masum's Journey))
-    Software Engineering
-      C
-      C++
-      DSA
-      OOP
-      DBMS
-      Git and GitHub
-    AI and Machine Learning
-      Python
-      NumPy
-      Pandas
-      Scikit-learn
-      Deep Learning
-    Research Preparation
-      Paper Reading
-      Experiment Design
-      Academic Writing
-      Publication Goal
-    Career Growth
-      Projects
-      Open Source
-      Portfolio
-      Problem Solving
-```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masum-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com?user=masum-007&theme=tokyonight&hide_border=true" />
-
-<br />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-007&layout=compact&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum-007&theme=tokyonight&utcOffset=6" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masum-007&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=masum-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 🔥 GitHub Summary Cards
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masum-007&theme=tokyonight" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masum-007&theme=tokyonight" />
-
-<br />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masum-007&theme=tokyonight" />
-
-</div>
-
----
 ## 🌟 Professional Highlights
 
 <div align="center">
@@ -568,6 +486,34 @@ mindmap
 </div>
 
 ---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=masum-007&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com?user=masum-007&theme=tokyonight&hide_border=true" />
+
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum-007&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum-007&theme=tokyonight&utcOffset=6" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=masum-007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+
 
 ## 📊 GitHub Contribution Insights
 
@@ -644,10 +590,10 @@ Every project is a step toward mastery.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/masum-al-mahamud/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mdmasumalmahamud@gmail.com">
   <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR_PORTFOLIO_LINK">
