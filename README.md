@@ -520,6 +520,78 @@ mindmap
 </div>
 
 ---
+## 🌟 Professional Highlights
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Strong foundation in **C, C++, DSA, and OOP**
+- Built practical projects using **Python, C++, TypeScript, and Next.js**
+- Experienced with **desktop apps, web apps, game development, and compiler design**
+- Focused on writing clean, structured, and maintainable code
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI/ML & Research Direction
+
+- Building a strong foundation in **Python, Machine Learning, and Deep Learning**
+- Interested in **AI research, model development, and academic publication**
+- Preparing for higher studies and research opportunities abroad
+- Learning through projects, experiments, and consistent practice
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📌 What I’m Building
+
+<div align="center">
+
+| Project Area | Technologies | Focus |
+|---|---|---|
+| 🎮 Game Development | C++, SFML, Box2D, CMake | Physics, rendering, game engine structure |
+| 🧠 Compiler Design | Python, Tkinter, Graphviz | Lexer, parser, AST, semantic analysis, NFA/DFA |
+| 💰 Finance Web App | Next.js, TypeScript, Prisma, Supabase, PostgreSQL | Full-stack web development |
+| 📅 Productivity App | Python, PyQt6, PyQt6 Charts | Desktop GUI, task tracking, routine dashboard |
+| 🤖 AI/ML Learning | Python, NumPy, Pandas, Scikit-learn | ML fundamentals and experiments |
+
+</div>
+
+---
+
+## 📊 GitHub Contribution Insights
+
+<div align="center">
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=masum-007&theme=tokyo-night&hide_border=true&area=true" />
+
+<br /><br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masum-007&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masum-007&theme=tokyonight" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masum-007&theme=tokyonight" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum-007&theme=tokyonight&utcOffset=6" />
+
+<br /><br />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masum-007&theme=tokyonight" />
+
+</div>
+
+---
 
 ## 🐍 Contribution Snake
 
@@ -533,6 +605,7 @@ mindmap
 
 </div>
 ---
+
 
 ## 🧩 Problem Solving Profiles
 
