@@ -8,9 +8,6 @@
 
 <br /><br />
 
-<a href="https://github.com/masum-007">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/masum-al-mahamud/">
   <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
